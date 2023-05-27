@@ -486,6 +486,10 @@
     align-self: center;
 }
 
+.logo {
+    text-align: center;
+}
+
 .circle{
     padding: 6px;
     border-radius: 10px;
@@ -728,8 +732,8 @@ width: 70%;
 }
 @media screen and (max-width: 500px) {
 
-        .logo img{
-        width: 70%;
+    .logo{
+        width: 80%;
     }
 
     .img-logo-bg{
